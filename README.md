@@ -1,2 +1,4 @@
 # C_programming
-This is a C programming repo  for me to practice git and programming language 
+This is a C programming repo  
+I will practice C programming daily ⏰️
+⏰️ 2-3 hrs daily
