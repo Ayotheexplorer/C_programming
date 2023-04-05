@@ -1,0 +1,8 @@
+#!/bin/bash
+Integers are whole numbers 
+"Int" is a datatype and can be printed using %i or %d which is preferd 
+Don't forget to add new character line "\n"
+For example:
+int a = 5
+printf("The value of a is %d\n");
+Result: The value of a is 5

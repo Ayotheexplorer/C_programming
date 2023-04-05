@@ -1,4 +1,11 @@
 #include <stdio.h>
+/**
+ * main - Entry point
+ * @a: Integer one
+ * @b: Integer two
+ * @c: Addition of integer one and two
+ * Return: 0 (Success)
+ */
 
 int main(void)
 {
